@@ -1,0 +1,9 @@
+[project]
+name = "data-pipelines"
+version = "0.1.0"
+description = "data pipelines"
+readme = "README.md"
+dependencies = []
+
+[tool.uv]
+managed = false

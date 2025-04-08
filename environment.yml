@@ -1,0 +1,10 @@
+name: pipelines-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas>=2.0
+  - sodapy
+  - python-dotenv
+  - sqlalchemy>=2.0
+  - psycopg2
